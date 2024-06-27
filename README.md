@@ -89,8 +89,8 @@
         <button onclick="changeFontSize('increase')">+</button>
         <button onclick="changeFontSize('decrease')">-</button>
         <button onclick="toggleTheme()">🌚🌝</button>
-        <button class="info-icon" onclick="toggleModal()">? </span>
-    </div>
+        <button class="info-icon" onclick="toggleModal()">? </button>
+
     <div class="content">
         <div class="card" onclick="copyDua(this)">
             <p>بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
