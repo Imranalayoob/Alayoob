@@ -142,7 +142,7 @@
 <p>هذا الموقع صدقة جارية لروح الاستاذ/ايوب عبد دبيس</p>
 
 <p>و جميع المُسلمين</p>
-  للتواصل info@alayoob.com</p>
+  للتواصل info@alayoob.com
         <button onclick="toggleModal()">شكراً</button>
     </div>
 
@@ -180,5 +180,3 @@
             document.body.classList.toggle('dark-mode');
         }
     </script>
-</body>
-</html>
